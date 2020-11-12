@@ -1,0 +1,38 @@
+What is HTML5?
+-New version of HTML and larger set of technologies that allows the building of more diverse and powerful web sites and apps.
+-A bunch of new stuff
+-HTML is a living standard.
+-Standard is a set of rules. Browsers do the work to implement.
+
+Block vs Inline
+-Block has it's own line. Inline is just "inline".
+-Div is a container that is block.
+-Span is a container that is inline.
+
+Extra Elements:
+-<hr> Is a horizontal rule or line.
+-<br> Is a line break.
+-<sup> is super script
+-<sub> is subscript
+
+Entity Codes
+-Used to display reserved characters
+-Difficult to type characters
+-starts with & and ends with;
+
+&lt; = less than <
+&gt; = greater than >
+&amp; = &
+
+We normally can't type > or < in html. They also have entity numbers. Easier to just look up what you need.
+
+Snowman: &#9731;
+Registered trademark: &reg;
+
+Code Exercise: <h1>&#9731; Snowman Productions <sup>&reg;</sup></h1>
+
+Semantic Markup
+-Semantic - relating to meaning
+"What purpose or role does that HTML element have?"
+
+<header> <footer> <section> are <div> but named different. They add meaning.
